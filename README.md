@@ -1,5 +1,6 @@
 # UasPemogramanIV
 #link jurnal
+(https://scholar.google.co.id/scholar?hl=id&as_sdt=0%2C5&q=kalkulator+kotlin&btnG=#d=gs_qabs&t=1720418513966&u=%23p%3DLv6_Jn_g7WEJ)
 
 #fitur
 penjumlahan
