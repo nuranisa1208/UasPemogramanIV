@@ -7,5 +7,8 @@ pengurangan
 perkalian
 pembagian
 
-#tampilan awal
+#running
 ![alt text](https://github.com/nuranisa1208/UasPemogramanIV/blob/main/running.jpg?raw=true)
+#tampilan awal
+![alt text](https://github.com/nuranisa1208/UasPemogramanIV/blob/main/tampilan%20awal.jpg?raw=true)
+
